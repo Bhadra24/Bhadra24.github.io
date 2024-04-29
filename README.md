@@ -1,4 +1,2 @@
-<iframe src="https://Bhadra24.github.io/main/index.html" width="100%" height="500px"></iframe>
+[Project Webpage Link](https://bhadra24.github.io/)
 
-
-# Bhadra24.github.io
