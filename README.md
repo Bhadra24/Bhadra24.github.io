@@ -94,13 +94,20 @@ Face Recognition is a Python library that can be used to recognize and manipulat
 - Go to the folder 'Student Image Data Collection' and download the 'Dataset_Collecting Images.py' and 'haarcascade_frontalface_default.xml'.
 - Create a folder 'Face_Recognition_Images' on your desktop and copy/paste the Python script and haarcascade.xml into the folder. 
 - Run the code.
+   ```
+   Dataset_Collecting Images.py
+   ```
+python Dataset_Collecting Images.py 
   
 **2. Test Image Data Collection:**
 - You can collect the Group test images from your mobile preferably Apple iPhone or from good-resolution smartphones.
 
 **3. Generate Embeddings:**
-- Download the 'Generate Embeddings.ipynb' file to generate the embedding of the known faces.
+- Download the 'Generate Embeddings.py' file to generate the embedding of the known faces.
 - It will create an embedding file that can be used as ground truth embedding for recognition.
+   ```
+   Generate Embeddings.py
+   ```
 
 **4. Face Recognition:**
 - Go to our website homepage and select/add the course as per your University courses and Upload the class_list.csv (Sample can be found in the Demo folder).
